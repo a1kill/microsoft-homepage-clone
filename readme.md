@@ -7,7 +7,7 @@ Click [here](https://a1kill.github.io/microsoft-homepage-clone/) for live demo.
 
 ### TechStack
 
-- HTML5
+- HTML
 - CSS
 - JS (just a spec ;P)
 
