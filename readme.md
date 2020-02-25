@@ -3,7 +3,7 @@
 In this project, I've created a static clone of the [Microsoft](https://www.microsoft.com/) homepage 
 <br />
 <br />
-Click [here](https://a1kill.github.io/microsoft-homepage-clone/) for live demo.
+Click [**here**](https://a1kill.github.io/microsoft-homepage-clone/) for live demo.
 
 ### TechStack
 
