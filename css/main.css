@@ -122,7 +122,7 @@ ul {
   text-transform: uppercase;
 }
 
-.showcase a svg {
+.showcase a i {
   margin-left: 5px;
 }
 
@@ -151,7 +151,7 @@ ul {
   font-weight: bold;
 }
 
-.home-cards a:hover svg {
+.home-cards a:hover i {
   margin-left: 10px;
 }
 
@@ -160,6 +160,7 @@ ul {
   width: 100%;
   height: 450px;
   background: url("../assets/images/xbox.jpeg") no-repeat center center/cover;
+  background-color: #c8c8c8;
   display: flex;
   align-items: center;
   text-align: center;
@@ -176,8 +177,8 @@ ul {
   text-transform: uppercase;
 }
 
-.xbox .content a svg,
-.carbon .content a svg {
+.xbox .content a i,
+.carbon .content a i {
   margin-left: 5px;
 }
 
@@ -259,7 +260,7 @@ ul {
   align-items: center;
 }
 
-.footer div svg {
+.footer div i {
   margin-right: 10px;
 }
 
@@ -313,6 +314,10 @@ ul {
 
   .main-nav ul.main-menu.show {
     transform: translateX(-20px);
+  }
+
+  .xbox {
+    background-size: contain;
   }
 
   .home-cards {
